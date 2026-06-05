@@ -1,0 +1,23 @@
+[
+  {
+    "id": "urgency-of-change",
+    "title": "The Urgency of Change",
+    "hook": "Why reclaiming your attention is the most radical act of our time.",
+    "readTimeMinutes": 3,
+    "category": "Insight"
+  },
+  {
+    "id": "the-myth-of-multitasking",
+    "title": "The Myth of Multitasking",
+    "hook": "Your brain isn't doing more; it's just doing less, faster.",
+    "readTimeMinutes": 4,
+    "category": "Insight"
+  },
+  {
+    "id": "digital-minimalism",
+    "title": "Embracing Digital Minimalism",
+    "hook": "It's not about giving up technology; it's about using it with intention.",
+    "readTimeMinutes": 5,
+    "category": "Insight"
+  }
+]
